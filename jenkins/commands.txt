@@ -1,0 +1,4 @@
+sudo systemctl start jenkins
+sudo systemctl stop jenkins
+sudo systemctl status jenkins
+sudo systemctl restart jenkins
