@@ -1,0 +1,4 @@
+argocd login <argocd-server>
+argocd app list
+argocd app get <app-name>
+argocd app status <app-name>

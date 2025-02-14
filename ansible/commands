@@ -1,0 +1,5 @@
+ansible --version
+ansible all -m ping
+ansible-playbook playbook.yml
+ansible-inventory --list
+
